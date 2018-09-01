@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jess's Blog
 
 You can use the [editor on GitHub](https://github.com/domatos123/domatos123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
