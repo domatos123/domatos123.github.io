@@ -1,6 +1,6 @@
-## Welcome to Jess's Blog
+## Welcome to Jess Amazon Deals
 
-You can use the [editor on GitHub](https://github.com/domatos123/domatos123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will share deals with you! All deals shared will be lower than 50% off discount. You can get many discounted products from here.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
