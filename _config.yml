@@ -1,1 +1,14 @@
 theme: jekyll-theme-minimal
+#Site Settings
+title: Best Deals
+SEOTitle: Best Deals
+email: domatos123@gmail.com
+description: "Great deals on amazon will be here."
+keyword: "amazon deals, low discount"
+url: "https://domatos123.github.io"
+#Sitebar Settings
+sitebar: true
+sidebar-about-description: I'm here to help to save your money. You can get more discounted products from me.
+# SNS settings
+RSS: false
+facebook_username:Jessie Sin
